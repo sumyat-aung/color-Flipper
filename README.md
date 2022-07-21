@@ -31,5 +31,5 @@
 
 - **Responsive and look great on all devices**
 - **Classic UI**
-- **Unique color generate with hex code**
+- **Unique color, generate with hex code**
 - **Copy hex code by clicking the color box**
