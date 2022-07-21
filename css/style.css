@@ -55,14 +55,6 @@ body {
   letter-spacing: 2px;
 }
 
-h6 {
-  font-family: "Montserrat Alternates", sans-serif;
-  margin: 30px;
-  color: #3d463f;
-  font-size: 16px;
-  letter-spacing: 2px;
-}
-
 #btn:hover {
   background-color: #29362c;
 }
