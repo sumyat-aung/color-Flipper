@@ -11,13 +11,13 @@
 <br/>
 <br/>
 
-![](Demo/large-screen.png)
+![](demo/large-screen.png)
 <br/>
 <br/>
-![](Demo/large-screen-copy.png)
+![](demo/large-screen-copy.png)
 <br/>
 <br/>
-![](Demo/small-screen.png)
+![](demo/small-screen.png)
 <br/>
 <br/>
 
